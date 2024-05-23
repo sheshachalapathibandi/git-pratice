@@ -4,10 +4,3 @@
 44. Sajni. Ram Sampath, Arijit Singh, Prashant Pandey.
 
 --first commit
-
-55. Tum Hi Ho. Mithoon, Arijit Singh.
-66. Apna Bana Le. Sachin-Jigar, Arijit Singh.
-77. Phir Bhi Tumko Chaahunga. ...
-88. Zihaal e Miskin.
-
---final commit
